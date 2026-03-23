@@ -38,8 +38,8 @@ let stringNum = String(num)
 
 let x = 3
 let y = x++
-//console.log(y); 3
+//console.log(y) 3
 
-let a = 3;
-let b = ++a;
-//console.log(b); 4
+let a = 3
+let b = ++a
+//console.log(b) 4
