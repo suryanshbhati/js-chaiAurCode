@@ -7,7 +7,7 @@ let valInNum = Number(score)
 //console.log(typeof valInNum)
 //console.log(valInNum)
 
-// 33 => 33
+// "33" => 33
 // "33abc" => NaN
 // true/false => 1/0
 // undefined => NaN
